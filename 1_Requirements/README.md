@@ -19,4 +19,9 @@ Based on the controller it will set the temperature and it is capable of upholdi
 # SWOT Analysis
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/102716839/164390126-2d65c492-f85e-442b-8455-ec110a5389f3.png">
 
-
+# 4'W and 1'H
+- WHY - Comfort for user.
+- WHAT - Seat Monitoring System based on Temperature.
+- WHEN - Winter seasons and according to user.
+- WHERE - Used in Transportation,Automobiles.
+- HOW - Operates by Temperature Sensor and microcontroller.
