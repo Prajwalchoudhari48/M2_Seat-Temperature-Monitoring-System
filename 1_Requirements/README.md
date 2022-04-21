@@ -11,8 +11,11 @@ Based on the controller it will set the temperature and it is capable of upholdi
 # Features :
 
 - It perceive whether the person is seated or not.
+
 - It is compitable.
+
 - The numerical value of temperature is envisaged using Pulse Width Modulation(PWM).
+
 - The consistent temperature values displayed.
 
 # SWOT Analysis
@@ -20,7 +23,11 @@ Based on the controller it will set the temperature and it is capable of upholdi
 
 # 4'W and 1'H
 - WHY - Well-being for user.
+
 - WHAT - Seat Monitoring System based on Temperature.
+
 - WHEN - Winter seasons and according to user.
+ 
 - WHERE - Used in Transportation,Automobiles.
+
 - HOW - Operates by Temperature Sensor and Microcontroller.
