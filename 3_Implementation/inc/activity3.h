@@ -1,5 +1,3 @@
-/*K.S.N.Ratna Sri*/
-
 #ifndef __ACTIVITY_3_H__
 #define __ACTIVITY_3_H__
 
