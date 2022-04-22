@@ -1,4 +1,4 @@
-/*K.S.N.Ratna Sri*/
+
 
 #ifndef __ACTIVITY_1_H__
 #define __ACTIVITY_1_H__
